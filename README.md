@@ -2,7 +2,9 @@
 
 ## Подключить
 
-//
+```
+<script src="https://raw.githubusercontent.com/blackmagiqq/parallax/master/dist/parallax-min.js"></script>
+```
 
 ## Использовать
 
